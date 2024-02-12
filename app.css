@@ -16,3 +16,7 @@
       height:10vh;
       background-color:#778899;
      }
+
+.banner img {width: 100vw;
+             height: auto;
+            }
