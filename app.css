@@ -6,6 +6,7 @@
         height:50vh;
         display:flex;
          flex-direction:column;
+         justify_content:
         }
 
 .banner {width: 100vw;
