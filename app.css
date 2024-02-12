@@ -3,13 +3,13 @@
   }
 
 .header {width:100vw;
-        height:auto;
+        height:50vh;
         display:flex;
          flex-direction:column;
         }
 
 .banner {width: 100vw;
-        height: 90vh;
+        height: 40vh;
        }
 
 .nav {width:100vw;
