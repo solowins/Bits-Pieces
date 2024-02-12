@@ -1,10 +1,13 @@
 * {padding:0px;
- margin:0px;}
+ margin:0px;
+  }
 
 .header {width:100vw;
         height:100vh;
         display:flex;
-        background-color:#000;}
+        background-color:#000;
+        }
 
-.banner{width: 100vw;
-        height: 100vh;}
+.banner {width: 100vw;
+        height: 100vh;
+       }
